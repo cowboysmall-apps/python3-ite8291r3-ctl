@@ -3,9 +3,9 @@
 RPM Package of the userspace driver for the ITE 8291 (rev 0.03) RGB keyboard backlight controller.
 
 
-| Package                 | Build Status                                                                                                                                                                                                                                                     |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| hid-ite8291r3-kmod      | [![Copr build status](https://copr.fedorainfracloud.org/coprs/cowboysmall/hid-ite8291r3-kmod/package/hid-ite8291r3-kmod/status_image/last_build.png)](https://copr.fedorainfracloud.org/coprs/cowboysmall/hid-ite8291r3-kmod/package/hid-ite8291r3-kmod/)        |
+| Package                 | Build Status                                                                                                                                                                                                                                                                 |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| hid-ite8291r3-kmod      | [![Copr build status](https://copr.fedorainfracloud.org/coprs/cowboysmall/python3-ite8291r3-ctl/package/python3-ite8291r3-ctl/status_image/last_build.png)](https://copr.fedorainfracloud.org/coprs/cowboysmall/python3-ite8291r3-ctl/package/python3-ite8291r3-ctl/)        |
 
 
 
