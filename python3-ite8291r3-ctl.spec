@@ -66,5 +66,9 @@ Requires:       python3-xlib
 
 
 %changelog
+* Tue Aug 30 2022 Jerry Kiely <jerry@cowboysmall.com> - 0.0-2
+- Fixed version and release numbers
 
+* Tue Aug 30 2022 Jerry Kiely <jerry@cowboysmall.com> - 0.1-1
+- First version of userspace driver - python3-ite8291r3-ctl
 
