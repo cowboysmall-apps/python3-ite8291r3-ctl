@@ -9,7 +9,7 @@
 
 
 Name:           python3-%{reponame}
-Version:        0.0
+Version:        0.1
 Release:        1%{?dist}.1
 Summary:        Userspace driver for the ITE 8291 (rev 0.03) RGB keyboard backlight controller
 License:        GPLv2
