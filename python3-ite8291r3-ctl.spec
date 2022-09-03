@@ -66,6 +66,9 @@ Requires:       python3-xlib
 
 
 %changelog
+* Sat Sep 03 2022 Jerry Kiely <jerry@cowboysmall.com> - 0.3-1
+- Added missing changelog entry - fixed version and release numbers
+
 * Tue Aug 30 2022 Jerry Kiely <jerry@cowboysmall.com> - 0.0-2
 - Fixed version and release numbers
 
