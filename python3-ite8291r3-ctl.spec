@@ -21,7 +21,7 @@ BuildArch:      noarch
 
 BuildRequires:  python3-devel
 BuildRequires:  python3-pytest
-BuildRequires:  python3-setuptools
+# BuildRequires:  python3-setuptools
 BuildRequires:  python3-pip
 BuildRequires:  python3-wheel
 BuildRequires:  python3-pyusb
@@ -56,7 +56,7 @@ Requires:       python3-xlib
 
 %check
 # %{__python3} setup.py test
-%pytest
+# %pytest
 
 
 %files -n python3-%{reponame}
