@@ -20,8 +20,8 @@ Source1:        99-ite8291r3-ctl.rules
 BuildArch:      noarch
 
 BuildRequires:  python3-devel
-BuildRequires:  python3-pytest
-# BuildRequires:  python3-setuptools
+# BuildRequires:  python3-pytest
+BuildRequires:  python3-setuptools
 BuildRequires:  python3-pip
 BuildRequires:  python3-wheel
 BuildRequires:  python3-pyusb
