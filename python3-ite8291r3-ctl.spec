@@ -55,9 +55,9 @@ Requires:       python3-xlib
 
 
 %check
-# %{__python3} setup.py test
+%{__python3} setup.py test
 # %pytest
-%tox
+# %tox
 
 
 %files -n python3-%{reponame}
